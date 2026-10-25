@@ -1,0 +1,6 @@
+streamlit==1.66.1
+torch
+torchvision
+numpy
+Pillow
+matplotlib

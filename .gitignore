@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+mvtec_ad/
+*.tar.xz
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
